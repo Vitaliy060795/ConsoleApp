@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     class Class456
     {
+        int a = 1;
     }
 }
